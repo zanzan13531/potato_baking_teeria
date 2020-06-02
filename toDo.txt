@@ -1,0 +1,15 @@
+Main Page:
+Just an introduction + instructions
+
+Listings Page:
+- Create a listing
+Key Features:
+- Listings:
+	- Data:
+		-Supplied by User:
+			- Item
+			- Requested Price
+			- In Game Name
+
+
+-View Listings:

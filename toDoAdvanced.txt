@@ -1,0 +1,18 @@
+Main Page:
+Just an introduction + instructions
+
+
+Key Features:
+- Listings:
+	- Data:
+		-Supplied by User:
+			- Item
+			- Requested Price
+			- In Game Name
+			- External Contact?
+			- Additional Info?
+		-Internal Data:
+			- Listing ID
+			- Listing Time
+	- Listing Creation:
+		- Requires 
